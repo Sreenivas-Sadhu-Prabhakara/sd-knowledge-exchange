@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-knowledge-exchange
+description: "BIAN Service Domain: Knowledge Exchange (Operate pattern, Business Support)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - operate
+annotations:
+  bian/business-area: "Business Support"
+  bian/business-domain: "Corporate Services"
+  bian/asset-type: "Knowledge Article"
+  bian/control-record: "Knowledge Article Operating Session"
